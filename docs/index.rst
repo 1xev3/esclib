@@ -1,7 +1,4 @@
-Документация esclib
-===================
+Start page
+==========
 
-esclib
-
-`Установка
-пока хз`_:
+esclib - Garry's mod addon
