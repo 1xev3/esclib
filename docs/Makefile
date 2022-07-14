@@ -4,7 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = vk_api
+SPHINXPROJ    = esclib
 SOURCEDIR     = .
 BUILDDIR      = _build
 
